@@ -13,6 +13,7 @@ Think of `gg` as a wrapper for the `git` commands that you run all the time.
 ## Getting Started
 After the [super painless installation](#installation), suppose we want to clone the [awesome spark shell script (created by Zach Holman)](https://github.com/holman/spark).
 ![status](http://qw3rtman.github.io/gg/screenshots/clone.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgg.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgg?ref=badge_shield)
 Alright, let's switch into that directory.
 ![gettingstarted2](http://qw3rtman.github.io/gg/screenshots/gettingstarted2.png)
 After making a quick change, let's check the status of our clone.
@@ -137,3 +138,7 @@ TODO:
 * support for specifying path of repository initialization and cloning
 * unit tests
 * [custom routines](https://github.com/qw3rtman/gg/issues/5)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgg.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgg?ref=badge_large)
